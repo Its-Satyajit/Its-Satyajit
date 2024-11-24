@@ -90,7 +90,6 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 ## 🎓 Education
 
 - **B.Tech in Computer Science & Engineering** – MAKAUT, 2021
-  - Focused on Full-Stack Development with projects in web dev, databases, and algorithms.
 
 ## Connect with Me
 
