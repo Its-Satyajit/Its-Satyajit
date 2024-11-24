@@ -86,7 +86,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Commit Snake
 
-![Commit Snake](https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg)
+![Commit Snake](https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg)
 
 ## 🎓 Education
 
