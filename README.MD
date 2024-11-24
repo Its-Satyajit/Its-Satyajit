@@ -76,9 +76,13 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true&hide_title=false&count_private=true&theme=transparent)
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+    <img src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515" alt="Linux badge" />
+    <img src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=6&theme=transparent&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515" alt="Android badge" />
+   
+</div>
 
-![Top Langs](https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=5&theme=transparent)
+
 
 ## GitHub Trophies
 
