@@ -76,9 +76,9 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Its-Satyajit&show_icons=true&hide_title=false&count_private=true&theme=transparent)
+![GitHub Stats](https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true&hide_title=false&count_private=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=5&theme=transparent)
+![Top Langs](https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=5&theme=transparent)
 
 ## GitHub Trophies
 
