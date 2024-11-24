@@ -8,11 +8,11 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 - 💻 Passionate about building high-performance, scalable web apps with modern tools like **Zustand**, **React Query**, and **ShadCN/UI**.
 - 🌍 Based in **West Bengal, India**, working on projects that focus on performance and usability.
 
-##  My Tech Stack
+## My Tech Stack
 
 ### Frontend
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" alt="React logo" />
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" />
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" />
@@ -26,7 +26,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Backend
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" />
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" />
     <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js logo" />
@@ -38,7 +38,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Tools & Platforms
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git logo" />
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" />
     <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white" alt="GitLab logo" />
@@ -51,10 +51,9 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
     
 </div>
 
-
 ## My Used Languages
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
@@ -68,7 +67,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Operating Systems
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux badge" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" alt="Android badge" />
     <img src="https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=white" alt="Windows badge" />
@@ -76,27 +75,22 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
-    <img style="scale:1.015" src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent"  />
-    <img  src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=6&theme=transparent" alt="Android badge" />
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+    <img  style="scale:1.015" src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
+    <img  src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=6&theme=transparent" alt="most-used-languages" />
    
 </div>
-
-
 
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=7)
-
-
 
 ![Commit Snake](https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg)
 
 ## 🎓 Education
 
 - **B.Tech in Computer Science & Engineering** – MAKAUT, 2021
-   - Focused on Full-Stack Development with projects in web dev, databases, and algorithms.
-
+  - Focused on Full-Stack Development with projects in web dev, databases, and algorithms.
 
 ## Connect with Me
 
