@@ -220,15 +220,11 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
   />
   <picture>
     <source
-      srcset="
-        https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg
-      "
+      srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg "
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="
-        https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg
-      "
+      srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg "
       media="(prefers-color-scheme: dark)"
     />
     <img
