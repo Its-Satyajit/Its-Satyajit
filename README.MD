@@ -75,15 +75,15 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <img  style="scale:1.015" src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
-    <img  src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=6&theme=transparent" alt="most-used-languages" />
+    <img  src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&theme=transparent&layout=donut" alt="most-used-languages" /><img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
    
 </div>
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=9)
 
   <picture>
     <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
