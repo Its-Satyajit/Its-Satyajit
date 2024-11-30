@@ -1,6 +1,6 @@
 # Hi there, I'm Satyajit 👋
 
-<div style="display: none"> <style> .images-container-flex { display: flex; flex-wrap: wrap; justify-content: start; gap: 12px; margin-bottom: 20px; } .fun{ display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px; } .image-wrapper {       display: flex; flex-wrap: wrap; justify-content: center; height: 100%; width:45%; } .image-wrapper { & > img { width: 100%; height: 100%; } } </style> </div>
+
 
 I'm a **Web Developer** specializing in **frontend** and **backend** technologies. I love building **responsive, user-friendly web applications** with **React.js**, **Next.js**, and other modern technologies.
 
@@ -14,7 +14,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Frontend
 
-<div class="images-container-flex">
+<div class="images-container-flex" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black"
     alt="React logo"
@@ -56,7 +56,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Backend
 
-<div class="images-container-flex">
+<div class="images-container-flex" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"
     alt="Node.js logo"
@@ -90,7 +90,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Tools & Platforms
 
-<div class="images-container-flex">
+<div class="images-container-flex" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"
     alt="Git logo"
@@ -132,7 +132,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## My Used Languages
 
-<div class="images-container-flex">
+<div class="images-container-flex" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"
     alt="TypeScript"
@@ -171,7 +171,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ### Operating Systems
 
-<div class="images-container-flex">
+<div class="images-container-flex" style="display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"
     alt="Linux badge"
@@ -189,21 +189,24 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Stats
 
-<div class="images-container-flex fun">
-  <div class="image-wrapper">
-    <img
+<div class="images-container-flex fun" style=" display: flex; flex-wrap: wrap; justify-content: center; align-items:center; margin-bottom: 20px; gap:12px; gap: 12px;">
+  <div class="image-wrapper" class=" display: flex; flex-wrap: wrap; justify-content: center; align-items:center;  height: 100%; width: 50%;">
+    <img class=" width: 100%;
+        height: 100%;"
       src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent"
       alt="github-States"
     />
   </div>
-  <div class="image-wrapper">
-    <img
-      src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=6&layout=donut&theme=transparent"
+  <div class="image-wrapper" class=" display: flex; flex-wrap: wrap; justify-content: center; align-items:center; height: 100%; width: 50%;">
+    <img class=" width: 100%;
+        height: 100%;"
+      src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&layout=donut&theme=transparent"
       alt="most-used-languages"
     />
   </div>
-  <div class="image-wrapper">
-    <img
+  <div class="image-wrapper" class=" display: flex; flex-wrap: wrap; justify-content: center; align-items:center; height: 100%; width: 50%;">
+    <img class=" width: 100%;
+        height: 100%;"
       src="https://github-readme-streak-stats.herokuapp.com?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak"
     />
@@ -213,7 +216,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Trophies
 
-<div class="images-container-flex fun">
+<div class="images-container-flex fun" style=" display: flex; flex-wrap: wrap; justify-content: start; margin-bottom: 20px; gap:12px;">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=9"
     alt="github-States"
