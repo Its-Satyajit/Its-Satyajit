@@ -75,7 +75,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=9)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=onedark)
 
   <picture>
     <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
