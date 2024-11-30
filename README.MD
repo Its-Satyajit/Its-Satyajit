@@ -85,7 +85,11 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Its-Satyajit&theme=gruvbox&no-frame=true&no-bg=true&column=7)
 
-![Commit Snake](https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg)
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" alt="Image" />
+  </picture>
 
 ## 🎓 Education
 
