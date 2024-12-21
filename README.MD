@@ -1,3 +1,4 @@
+
 # Hi there, I'm Satyajit 👋
 
 I'm a **Web Developer** specializing in **frontend** and **backend** technologies. I love building **responsive, user-friendly web applications** with **React.js**, **Next.js**, and other modern technologies.
@@ -48,7 +49,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
     <img src="https://img.shields.io/badge/-Zed-333333?logo=zed&logoColor=white" alt="Zed Editor badge" />
     <img src="https://img.shields.io/badge/-composer-885630?logo=composer&logoColor=white" alt="composer logo" />
     <img src="https://img.shields.io/badge/-Pnpm-F69220?logo=pnpm&logoColor=white" alt="Pnpm logo" />
-    
+
 </div>
 
 ## My Used Languages
@@ -89,10 +90,10 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 ## GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img  style="scale:1.015" src="https://github-states.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
-    <img  src="https://github-states.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&theme=transparent&layout=donut" alt="most-used-languages" />
-    <img src="https://github-streak-stats-blond.vercel.app?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-   
+    <img  style="scale:1.015" src="https://github-readme-stats-its-satyajits-projects.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
+    <img  src="https://github-readme-stats-its-satyajits-projects.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&theme=transparent&layout=donut" alt="most-used-languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
 </div>
 
 
