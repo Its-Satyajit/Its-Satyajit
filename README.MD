@@ -1,6 +1,6 @@
 
-# Hi there, I'm Satyajit 👋  
-![](https://hit.yhype.me/github/profile?account_id=77627641)
+# Hi there, I'm Satyajit 👋  ![](https://hit.yhype.me/github/profile?account_id=77627641)
+
 
 I'm a **Web Developer** specializing in **frontend** and **backend** technologies. I love building **responsive, user-friendly web applications** with **React.js**, **Next.js**, and other modern technologies.
 
