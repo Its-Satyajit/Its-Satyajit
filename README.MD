@@ -106,7 +106,7 @@ I'm a **Web Developer** specializing in **frontend** and **backend** technologie
 
 - **[LinkedIn](https://www.linkedin.com/in/satyajit0013/)** | **[GitHub](https://github.com/Its-Satyajit)**
 
-![](https://komarev.com/ghpvc/?username=its-satyajit&style=for-the-badge&abbreviated=truelabel=)
+![](https://komarev.com/ghpvc/?username=its-satyajit&style=for-the-badge&abbreviated=true&label=)
 ---
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, and let's connect! 🚀
