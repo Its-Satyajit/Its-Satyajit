@@ -1,6 +1,6 @@
 
-# Hi there, I'm Satyajit 👋 
-![](https://komarev.com/ghpvc/?username=its-satyajit&style=for-the-badge&abbreviated=true)
+# Hi there, I'm Satyajit 👋  ![](https://komarev.com/ghpvc/?username=its-satyajit&style=for-the-badge&abbreviated=truelabel=)
+
 
 I'm a **Web Developer** specializing in **frontend** and **backend** technologies. I love building **responsive, user-friendly web applications** with **React.js**, **Next.js**, and other modern technologies.
 
