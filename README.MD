@@ -2,13 +2,13 @@
 # Hi there, I'm Satyajit 👋  ![](https://hit.yhype.me/github/profile?account_id=77627641)
 
 
-I'm a **Web Developer** specializing in **frontend** and **backend** technologies. I love building **responsive, user-friendly web applications** with **React.js**, **Next.js**, and other modern technologies.
+I'm a web developer and I absolutely love what I do! I specialise in frontend and backend technologies, and I'm passionate about building responsive, user-friendly web applications with React.js, Next.js and other modern technologies.
 
 ## About Me
 
-- 🌱 Currently deepening my knowledge in **Next.js**, **DrizzleORM**, and advanced concepts in **React.js**.
-- 💻 Passionate about building high-performance, scalable web apps with modern tools like **Zustand**, **React Query**, and **ShadCN/UI**.
-- 🌍 Based in **West Bengal, India**, working on projects that focus on performance and usability.
+- 🌱 I'm currently super-excited about deepening my knowledge of Next.js, DrizzleORM and advanced concepts in React.js.
+I'm passionate about building high-performance, scalable web apps with modern tools like Zustand, React Query and ShadCN/UI.
+- 🌍 Based in the vibrant city of Kolkata, West Bengal, India, I'm thrilled to be working on cutting-edge projects that focus on performance and usability.
 
 ## My Tech Stack
 
