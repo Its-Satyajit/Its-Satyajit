@@ -53,7 +53,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 </div>
 
-## My Used Languages
+### My Used Languages
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
