@@ -76,7 +76,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 </div>
 
 ## GitHub Trophies
-
+<div align="center">
   <picture>
     <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&column=9&theme=flat" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=gruvbox" media="(prefers-color-scheme: dark)" />
@@ -87,6 +87,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
     <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
     <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" alt="Image" />
   </picture>
+</div>
 
 ## GitHub Stats
 
@@ -94,7 +95,6 @@ I'm passionate about building high-performance, scalable web apps with modern to
     <img  style="scale:1.015" src="https://github-readme-stats-its-satyajits-projects.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
     <img  src="https://github-readme-stats-its-satyajits-projects.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&theme=transparent&layout=donut" alt="most-used-languages" />
     <img src="https://github-readme-streak-stats-its-satyajits-projects.vercel.app//?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
 </div>
 
 
