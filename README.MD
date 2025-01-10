@@ -14,7 +14,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ### Frontend
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" alt="React logo" />
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" />
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo" />
@@ -28,7 +28,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ### Backend
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" />
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" />
     <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js logo" />
@@ -40,7 +40,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ### Tools & Platforms
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git logo" />
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" />
     <img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white" alt="GitLab logo" />
@@ -55,7 +55,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ## My Used Languages
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
@@ -69,7 +69,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ### Operating Systems
 
-<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux badge" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" alt="Android badge" />
     <img src="https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=white" alt="Windows badge" />
@@ -90,7 +90,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
     <img  style="scale:1.015" src="https://github-readme-stats-its-satyajits-projects.vercel.app/api?username=Its-Satyajit&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" alt="github-States" />
     <img  src="https://github-readme-stats-its-satyajits-projects.vercel.app/api/top-langs/?username=Its-Satyajit&langs_count=8&theme=transparent&layout=donut" alt="most-used-languages" />
     <img src="https://github-readme-streak-stats-its-satyajits-projects.vercel.app//?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
