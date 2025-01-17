@@ -1,11 +1,5 @@
 
-<div align="center">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&column=9&theme=flat" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=gruvbox" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=gruvbox" alt="Image" />
-  </picture>
-</div>
+
 
 # Hi there, I'm Satyajit 👋  ![](https://hit.yhype.me/github/profile?account_id=77627641)
 
@@ -83,7 +77,13 @@ I'm passionate about building high-performance, scalable web apps with modern to
     <img src="https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=white" alt="Windows badge" />
 </div>
 
-
+<div align="center">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&column=9&theme=flat" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=gruvbox" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Its-Satyajit&no-frame=true&no-bg=true&column=9&theme=gruvbox" alt="Image" />
+  </picture>
+</div>
 <div align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
