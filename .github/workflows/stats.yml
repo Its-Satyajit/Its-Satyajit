@@ -35,6 +35,9 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Pull changes
+        run: git pull origin main --rebase --autostash
+
       - name: Commit cards
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
