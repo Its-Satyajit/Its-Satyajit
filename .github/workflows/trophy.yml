@@ -23,7 +23,7 @@ jobs:
           username: Its-Satyajit
           max-cols: 9
           theme: flat
-          file: profile-trophy-light.svg
+          file: profile/profile-trophy-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Dark Mode Trophy
@@ -34,7 +34,7 @@ jobs:
           theme: gruvbox
           no-frame: true
           no-background: true
-          file: profile-trophy-dark.svg
+          file: profile/profile-trophy-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
