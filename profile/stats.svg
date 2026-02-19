@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 111, Total PRs: 157, Total PRs Merged: 152, Merged PRs Percentage: 96.82, Total PRs Reviewed: 10, Total Issues: 11, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 108, Total Commits  (last year) : 129, Total PRs: 1695, Total PRs Merged: 1681, Merged PRs Percentage: 99.17, Total PRs Reviewed: 10, Total Issues: 15, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.90987145361825;
+        stroke-dashoffset: 79.79620788922605;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >103</text>
+      >108</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >111</text>
+      >129</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >157</text>
+      >1.7k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >152</text>
+      >1.7k</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >96.82 %</text>
+      >99.17 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >11</text>
+      >15</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -282,7 +282,7 @@
         x="219.01"
         y="12.5"
         data-testid="discussions_answered"
-      >0</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
@@ -297,7 +297,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >1</text>
+      >10</text>
     </g>
   </g>
     </svg>
