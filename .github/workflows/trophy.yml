@@ -1,0 +1,44 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Light Mode Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Its-Satyajit
+          column: 9
+          theme: flat
+          output_path: profile-trophy-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Dark Mode Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Its-Satyajit
+          column: 9
+          theme: gruvbox
+          no-frame: true
+          no-bg: true
+          output_path: profile-trophy-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update profile trophies"
+          file_pattern: "profile-trophy-*.svg"
