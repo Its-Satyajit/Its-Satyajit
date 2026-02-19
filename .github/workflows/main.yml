@@ -4,10 +4,10 @@ on:
   # Run automatically every 24 hours at midnight UTC
   schedule:
     - cron: "0 0 * * *"  # Runs at midnight UTC every day
-  
+
   # Allows manual triggering of the job at any time
   workflow_dispatch:
-  
+
   # Run on every push to the master branch
   push:
     branches:
@@ -26,6 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Its-Satyajit  # Your GitHub username
+          github_token: ${{ secrets.PROFILE_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
