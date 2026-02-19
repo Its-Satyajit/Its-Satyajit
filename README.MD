@@ -87,19 +87,19 @@ I'm passionate about building high-performance, scalable web apps with modern to
 </div>
 <div align="center">
   <picture>
-    <source srcset="profile-trophy-light.svg" media="(prefers-color-scheme: light)" />
-    <source srcset="profile-trophy-dark.svg" media="(prefers-color-scheme: dark)" />
-    <img src="profile-trophy-dark.svg" alt="Trophies" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-light.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-dark.svg" alt="Trophies" />
   </picture>
 </div>
 
 ## GitHub Stats
-<!--
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img  style="scale:1.015" src="profile/stats.svg" alt="github-States" />
-    <img  src="profile/top-langs.svg" alt="most-used-languages" />
-    <img src="https://github-readme-streak-stats-its-satyajits-projects.vercel.app//?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div> -->
+    <img  style="scale:1.015" src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile/stats.svg" alt="github-States" />
+    <img  src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile/top-langs.svg" alt="most-used-languages" />
+    <!-- <img src="https://github-readme-streak-stats-its-satyajits-projects.vercel.app//?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
+</div>
 
 
 ## 🎓 Education
