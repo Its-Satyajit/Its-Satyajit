@@ -87,9 +87,9 @@ I'm passionate about building high-performance, scalable web apps with modern to
 </div>
 <div align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-light.svg" media="(prefers-color-scheme: light)" />
-    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-dark.svg" media="(prefers-color-scheme: dark)" />
-    <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/main/profile-trophy-dark.svg" alt="Trophies" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/refs/heads/main/profile-trophy-light.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/refs/heads/main/profile-trophy-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/refs/heads/main/profile-trophy-dark.svg" alt="Trophies" />
   </picture>
 </div>
 
