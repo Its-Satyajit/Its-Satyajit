@@ -25,7 +25,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
     <img src="https://img.shields.io/badge/-ShadCN%20UI-0D1F2B?logo=shadcn&logoColor=white" alt="ShadCN/UI logo" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap logo" />
     <img src="https://img.shields.io/badge/-Next%20UI-000442?logo=nextui&logoColor=white" alt="Next UI logo" />
-   
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" />
 </div>
 
 ### Backend
@@ -33,11 +33,11 @@ I'm passionate about building high-performance, scalable web apps with modern to
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 12px;">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" />
     <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" />
-
+    <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js logo" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL logo" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL logo" />
     <img src="https://img.shields.io/badge/-DrizzleORM-4B8B3B?logo=drizzle&logoColor=white" alt="Drizzle ORM logo" />
-  
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" />
 </div>
 
 ### Tools & Platforms
@@ -66,6 +66,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/-C%20++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
 
 ### Operating Systems
@@ -77,6 +78,28 @@ I'm passionate about building high-performance, scalable web apps with modern to
 </div>
 
 
+<div align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" alt="Image" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source srcset="profile-trophy-light.svg" media="(prefers-color-scheme: light)" />
+    <source srcset="profile-trophy-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="profile-trophy-dark.svg" alt="Trophies" />
+  </picture>
+</div>
+
+## GitHub Stats
+<!--
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img  style="scale:1.015" src="profile/stats.svg" alt="github-States" />
+    <img  src="profile/top-langs.svg" alt="most-used-languages" />
+    <img src="https://github-readme-streak-stats-its-satyajits-projects.vercel.app//?user=Its-Satyajit&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div> -->
 
 
 ## 🎓 Education
