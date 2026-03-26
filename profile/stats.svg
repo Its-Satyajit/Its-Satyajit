@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 120, Total Commits  (last year) : 204, Total PRs: 1719, Total PRs Merged: 1705, Merged PRs Percentage: 99.19, Total PRs Reviewed: 5, Total Issues: 15, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 120, Total Commits  (last year) : 218, Total PRs: 1720, Total PRs Merged: 1706, Merged PRs Percentage: 99.19, Total PRs Reviewed: 5, Total Issues: 15, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 75.47311838342794;
+        stroke-dashoffset: 74.56726054771691;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >204</text>
+      >218</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
