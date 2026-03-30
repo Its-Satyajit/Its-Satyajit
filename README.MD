@@ -104,12 +104,10 @@ I'm passionate about building high-performance, scalable web apps with modern to
 <div align="center">
   <picture>
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-satyajit&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true" media="(prefers-color-scheme: light)" />
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-satyajit&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=its-satyajit&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
     <img src="https://raw.githubusercontent.com/Its-Satyajit/Its-Satyajit/output/github-contribution-grid-snake-dark.svg" alt="Image" />
   </picture>
 </div>
-
-
 
 
 ## 🎓 Education
