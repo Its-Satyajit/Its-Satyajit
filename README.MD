@@ -121,4 +121,4 @@ I'm passionate about building high-performance, scalable web apps with modern to
 ![](https://komarev.com/ghpvc/?username=its-satyajit&style=for-the-badge&abbreviated=true)
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, and let's connect! 🚀
+Thanks for visiting my GitHub profile! Feel free to explore my repositories, and let's connect! 
