@@ -8,9 +8,9 @@ I'm a web developer and I absolutely love what I do! I specialise in frontend an
 
 ## About Me
 
-- 🌱 I'm currently super-excited about deepening my knowledge of Next.js, DrizzleORM and advanced concepts in React.js.
+- I'm currently super-excited about deepening my knowledge of Next.js, DrizzleORM and advanced concepts in React.js.
 I'm passionate about building high-performance, scalable web apps with modern tools like Zustand, React Query and ShadCN/UI.
-- 🌍 Based in the vibrant city of Kolkata, West Bengal, India, I'm thrilled to be working on cutting-edge projects that focus on performance and usability.
+- Based in the vibrant city of Kolkata, West Bengal, India, I'm thrilled to be working on cutting-edge projects that focus on performance and usability.
 
 ## My Tech Stack
 
@@ -110,7 +110,7 @@ I'm passionate about building high-performance, scalable web apps with modern to
 </div>
 
 
-## 🎓 Education
+## Education
 
 - **B.Tech in Computer Science & Engineering** – MAKAUT, 2021
 
