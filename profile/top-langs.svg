@@ -126,14 +126,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 56.91%
+        TypeScript 56.90%
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 19.37%
+        TeX 19.38%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -186,8 +186,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="56.91"
-          d="M 92.82950269846502 168.07581687423362 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="56.9"
+          d="M 92.86180872333098 168.09078405732998 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#3178c6"
           fill="none"
           stroke-width="12">
@@ -197,8 +197,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="19.37"
-          d="M 60.18316531806729 112.11417432577434 A 56.66666666666667 56.66666666666667 0 0 0 92.82950269846502 168.07581687423362"
+          size="19.38"
+          d="M 60.18316531806729 112.11417432577434 A 56.66666666666667 56.66666666666667 0 0 0 92.86180872333098 168.09078405732998"
           stroke="#3D6117"
           fill="none"
           stroke-width="12">
