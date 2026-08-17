@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 130, Total Commits  (last year) : 376, Total PRs: 1816, Total PRs Merged: 1800, Merged PRs Percentage: 99.12, Total PRs Reviewed: 0, Total Issues: 15, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 130, Total Commits  (last year) : 418, Total PRs: 1846, Total PRs Merged: 1831, Merged PRs Percentage: 99.19, Total PRs Reviewed: 0, Total Issues: 30, Total Discussions Started: 1, Total Discussions Answered: 1, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.90753361672844;
+        stroke-dashoffset: 75.20321571197837;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >376</text>
+      >418</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >99.12 %</text>
+      >99.19 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >15</text>
+      >30</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
