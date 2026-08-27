@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 130, Total Commits  (last year) : 748, Total PRs: 1998, Total PRs Merged: 1936, Merged PRs Percentage: 96.90, Total PRs Reviewed: 0, Total Issues: 169, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 131, Total Commits  (last year) : 793, Total PRs: 2007, Total PRs Merged: 1944, Merged PRs Percentage: 96.86, Total PRs Reviewed: 0, Total Issues: 171, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.05093048603521;
+        stroke-dashoffset: 57.29435652729769;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >130</text>
+      >131</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >748</text>
+      >793</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >96.90 %</text>
+      >96.86 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >169</text>
+      >171</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
