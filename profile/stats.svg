@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 131, Total Commits  (last year) : 793, Total PRs: 2007, Total PRs Merged: 1944, Merged PRs Percentage: 96.86, Total PRs Reviewed: 0, Total Issues: 171, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 5</desc>
+        <title id="titleId">It's Satyajit💫's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 131, Total Commits  (last year) : 388, Total PRs: 2009, Total PRs Merged: 1945, Merged PRs Percentage: 96.81, Total PRs Reviewed: 0, Total Issues: 171, Total Discussions Started: 2, Total Discussions Answered: 1, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 57.29435652729769;
+        stroke-dashoffset: 66.93215715483952;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >793</text>
+      >388</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >96.86 %</text>
+      >96.81 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
